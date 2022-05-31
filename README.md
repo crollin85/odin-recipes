@@ -1,1 +1,2 @@
 # odin-recipes
+For this project I made a very basic recipe web page with three recipes. Throughout this project I used images, links, unordered and ordered lists, paragraphs, and different headings. I also used the <strong> element and resized the images I used within the html code. I have a link to each recipe on the homepage and also added links from each one back to the homepage.
